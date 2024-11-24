@@ -8,8 +8,6 @@ A Java-based implementation of the classic Minesweeper game, developed using the
 - [Features](#features)
 - [Setup](#setup)
 - [Controls](#controls)
-- [Marking Criteria](#marking-criteria)
-- [License](#license)
 
 ## Description
 
